@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+<h1>ini adalah data</h1>
     @foreach ($data as $a)
         <ul>
             <li>{{ $a->id }}</li>
