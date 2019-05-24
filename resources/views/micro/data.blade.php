@@ -9,6 +9,7 @@
 <body>
 <h1>ini adalah data</h1>
 <h2>ggg</h2>
+<h3>gg</h3>
     @foreach ($data as $a)
         <ul>
             <li>{{ $a->id }}</li>
